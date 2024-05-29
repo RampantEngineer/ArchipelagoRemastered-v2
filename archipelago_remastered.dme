@@ -76,7 +76,13 @@
 #define CONTENTS_MILK 2
 #define CONTENTS_COCONUT 3
 
-
+#define FILE_DIR graphics/
+#define FILE_DIR graphics/building
+#define FILE_DIR graphics/farming
+#define FILE_DIR graphics/fish
+#define FILE_DIR graphics/items
+#define FILE_DIR graphics/metalwork
+#define FILE_DIR graphics/tools
 
 // BEGIN_PREFERENCES
 // END_PREFERENCES
